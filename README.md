@@ -1,11 +1,11 @@
-# Calculator
+# Basic Java
 
 This repository contains a simple Java-based Calculator project, along with other utility programs.
 
 ## Files
 - `Calculator.java`: Main calculator logic (add, subtract, multiply, divide, etc.)
 - `CountOccurrence.java`: Counts occurrences of a digit in a number.
-- `Temperature.java`: Temperature conversion utility.
+- `Temperature.java`: Temperature conversion utility (Celsius To Fahrenheit)
 
 ## How to Run
 1. Clone the repository:
