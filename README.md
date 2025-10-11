@@ -6,6 +6,7 @@ This repository contains a simple Java-based Calculator project, along with othe
 - `Calculator.java`: Main calculator logic (add, subtract, multiply, divide, etc.)
 - `CountOccurrence.java`: Counts occurrences of a digit in a number.
 - `Temperature.java`: Temperature conversion utility (Celsius To Fahrenheit)
+- `Months.java`: Tells the Holidays in a particular month of 2025. (using switch cases)
 
 ## How to Run
 1. Clone the repository:
