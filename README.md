@@ -34,8 +34,6 @@ and problem-solving fundamentals.
 ---
 
 ## How to Run the Programs
-=======
-## Files
 
 1. Clone the repository:
    ```bash
