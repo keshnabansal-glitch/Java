@@ -1,6 +1,7 @@
+// Take in two numbers and an operator (+, -, *, /) and calculate the value. (Use if conditions)
 import java.util.Scanner;
 
-public class Calculator {
+public class Calculator_IfElse {
     public static void main(String[] args){
         Scanner input = new Scanner(System.in);
         System.out.print("Enter operator ('+' OR '-' OR '*' OR '/' OR '^' OR '%')\nOR\npress 'x' OR 'X' to exit:");

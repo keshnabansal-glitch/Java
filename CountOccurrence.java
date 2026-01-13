@@ -4,8 +4,8 @@ public class CountOccurrence{
     public static void main(String[] args){
         Scanner input = new Scanner(System.in);
         System.out.print("Enter a number: ");
-    int number = input.nextInt();
-    int originalNumber = number;
+        int number = input.nextInt();
+        int originalNumber = number;
         System.out.print("Enter the number you want to count: ");
         int countNum = input.nextInt();
         int count =0;
