@@ -1,6 +1,6 @@
 
 # Basic Java Programs
-=======
+
 # Basic Java
 
 This repository contains a collection of **basic Java programs** created to practice
@@ -8,7 +8,6 @@ core Java concepts such as conditions, loops, switch cases, and basic logic buil
 These programs are beginner-friendly and helpful for students who are learning Java
 and problem-solving fundamentals.
 
-<<<<<<< HEAD
 ---
 
 ## Programs Included
@@ -37,11 +36,6 @@ and problem-solving fundamentals.
 ## How to Run the Programs
 =======
 ## Files
-- `Calculator.java`: Main calculator logic (add, subtract, multiply, divide, etc.)
-- `CountOccurrence.java`: Counts occurrences of a digit in a number.
-- `Temperature.java`: Temperature conversion utility (Celsius To Fahrenheit)
-- `Months.java`: Tells the Holidays in a particular month of 2025. (using switch cases)
-
 
 1. Clone the repository:
    ```bash
